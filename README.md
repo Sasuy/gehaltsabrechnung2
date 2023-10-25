@@ -1,4 +1,2 @@
 # gehaltsabrechnung2
-# kjgkgkjgkjgghghgh
-
-# jdciecjn
+Tool für Gehaltsabrechnungen
